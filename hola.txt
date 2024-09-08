@@ -1,0 +1,5 @@
+Hola a todos 
+como estan 
+les voy a mostrar 
+como hacer 
+un texto en git
